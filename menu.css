@@ -1,0 +1,36 @@
+.menucnt{
+    background-color: rgb(39, 112, 112);
+    height: 700px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+}
+.main-box{
+    height: 290px;
+    width: 270px;
+    background-color: rgb(197, 199, 199);
+    margin-left: 85px;
+    margin-top: 50px;
+}
+img{
+    height: 185px;
+    width: 240px;
+    padding: 15px;
+}
+p{
+    margin-top: -10px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+button{
+    margin-left: 90px;
+    margin-top: -30px;
+    padding: 10px;
+    background-color:rgb(39, 112, 112) ;
+    color: rgb(197, 199, 199);
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+}
