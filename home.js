@@ -79,7 +79,7 @@ export function body1(){
     const p=document.createElement('p');
     p.classList.add('content1');
 
-    h1.innerHTML="Welcome Maddy's Restarant";
+    h1.innerHTML="Welcome Maddy's Restaurant";
     p.innerHTML="A restaurant about natural foods is typically called an organic restaurant where the primary focus is on serving dishes made with ingredients.";
 
     hmdiv.append(h1);
