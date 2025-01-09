@@ -14,7 +14,7 @@ export function navbar(){
     const h1=document.createElement('h1');
     h1.classList.add('title');
 
-    h1.innerHTML="Maddy's Restarant";
+    h1.innerHTML="Maddy's Restaurant";
 
     const ul=document.createElement('ul');
     ul.classList.add('list');
